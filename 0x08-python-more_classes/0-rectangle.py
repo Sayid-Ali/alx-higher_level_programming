@@ -1,10 +1,7 @@
 #!/usr/bin/python3
-"""""This module create a rectangle"""
+"""Defines a Rectangle class."""
 
 
 class Rectangle:
-    """
-    pass atribute - empty class
-    """
-    def __init__(self):
-        pass
+    """Represent a rectangle."""
+    pass
